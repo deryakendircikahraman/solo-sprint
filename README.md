@@ -1,6 +1,12 @@
-# 🧠 SoloSprint + Emotional Reflection Agent
+# SoloSprint + Emotional Reflection Agent
 
 A clean, modular MVP that helps users set daily focus goals, breaks them into tasks using GPT-4, tracks browser behavior, and generates emotionally-aware daily reflections.
+
+<img width="1587" height="851" alt="image" src="https://github.com/user-attachments/assets/d406a135-c44f-42ed-994f-b63161d131f7" />
+<img width="1587" height="591" alt="image" src="https://github.com/user-attachments/assets/86e70edd-28ea-4598-87e7-78a6430f85cb" />
+<img width="541" height="591" alt="image" src="https://github.com/user-attachments/assets/c3f44dc1-6546-49e5-9f6c-791e95b08e56" />
+<img width="1452" height="670" alt="image" src="https://github.com/user-attachments/assets/4d0221b0-4bac-4021-b646-13a89b9ee51b" />
+
 
 ## ✨ Features
 
