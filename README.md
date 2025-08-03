@@ -149,6 +149,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for styling
 - Next.js team for the amazing framework
 
----
-
-**Built with ❤️ for productive developers** 
